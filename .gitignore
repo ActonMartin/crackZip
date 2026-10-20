@@ -1,0 +1,23 @@
+# 运行时临时文件
+tmp/
+
+# John the Ripper（第三方二进制，体积大，请自行下载放入）
+john/
+john.zip
+
+# John 运行产生的状态/日志/会话
+*.pot
+*.log
+*.rec
+
+# 测试数据
+no1/
+22.zip
+
+# CodeArts 工具目录
+.arts/
+.codeartsdoer/
+
+# Windows 系统文件
+Thumbs.db
+Desktop.ini
